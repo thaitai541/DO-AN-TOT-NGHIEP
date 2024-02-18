@@ -4,7 +4,7 @@
 Giao dien nguoi dung
 <br/>
 
-<img width="343" alt="Screen Shot 2024-02-18 at 08 18 06" src="https://github.com/thaitai541/DO-AN-TOT-NGHIEP/assets/66893154/f0f0a414-fae0-47a4-af3b-45a16e0fb823">
+<img width="256" alt="Screen Shot 2024-02-18 at 08 32 51" src="https://github.com/thaitai541/DO-AN-TOT-NGHIEP/assets/66893154/5ee22038-563a-4405-b3af-456e94676d27">
 
 <br/>
 <br/>

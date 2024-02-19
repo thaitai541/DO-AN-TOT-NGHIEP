@@ -26,4 +26,4 @@ Giao dien Admin
 <img width="252" alt="Screen Shot 2024-02-18 at 08 29 02" src="https://github.com/thaitai541/DO-AN-TOT-NGHIEP/assets/66893154/328ec566-fe0d-4ac5-b7a6-7c4f489123f1">
 
 <br/>
-Xem tiep giao dien app trong File baocao..
+Link youtube demo app: https://youtu.be/PdaBMseNA9E?si=MBxZfVjJm0prD3Pk
